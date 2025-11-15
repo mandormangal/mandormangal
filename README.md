@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://www.canva.com/design/DAG4uml9ynk/224CXwhRGnFjE7gMW_Jl1A/edit?utm_content=DAG4uml9ynk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
