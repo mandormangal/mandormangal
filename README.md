@@ -1,5 +1,5 @@
 <p align="center">
- <p>Hello, I'm Mangal Mandor</p>
+ <p font-size="48px">Hello, I'm Mangal Mandor</p>
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
