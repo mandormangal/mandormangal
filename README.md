@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Mangal%20Mandor%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
-
-<p align="center">
- <p font-size="48px">Hello, I'm Mangal Mandor</p>
-</p>
-
 <!-- ✨ Animated Typing Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines=Full+Stack+Developer+%26+UI%2FUX+Engineer+%F0%9F%92%BB;Building+Design+Systems+%26+Beautiful+Interfaces+%E2%9C%A8;Lifelong+Learner+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
