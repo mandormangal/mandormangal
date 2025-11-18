@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+</p>
+
+
+<p align="center">
  <p font-size="48px">Hello, I'm Mangal Mandor</p>
 </p>
 
