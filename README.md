@@ -16,7 +16,6 @@
 🚀 Experienced in **frontend architecture, product design, and UI engineering**, with an eye for both **performance and aesthetics**.  
 ⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**.
 
----
 
 ### 🌐 Connect With Me
 
@@ -73,11 +72,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
----
 
 ### 🚀 Featured Projects
 
----
 
 #### 🛒 Shopping24 (E-Commerce Platform)
 [![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
@@ -94,7 +91,6 @@ A complete **e-commerce web application** where users can browse products, add t
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
 
----
 
 #### 🎓StudyAdda (Ed-Tech Platform)
 
@@ -112,7 +108,6 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
----
 
 
 ### 📊 GitHub Stats
@@ -124,7 +119,6 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandormangal&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
 </p>
 
----
 
 ### ⚡ Fun Fact
 > “Code. Debug. Repeat. 🚀”
