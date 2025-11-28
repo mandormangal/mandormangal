@@ -24,9 +24,9 @@
   <a href="https://www.linkedin.com/in/mangal-mandor-096300243/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
+  <!-- <a href="https://jagmohan123.github.io/New-PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:mangalmandor8910">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -113,22 +113,6 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
 ---
-
-#### 💼 ApplySeeker (Job Plateform)
-[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/ApplySeekerFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://applyseeker.netlify.app/)
-
-A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
-
-- 🌟 **Key Features:**
-  - User authentication for **job seekers & recruiters**
-  - **Job posting & application management**
-  - **Responsive, dynamic dashboards** for recruiters and candidates
-  - Integration with **REST APIs** for real-time updates
-  - Built for scalability and smooth user experience
-
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
-
 
 
 ### 📊 GitHub Stats
