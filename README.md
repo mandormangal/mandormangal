@@ -110,10 +110,10 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 
 
 ### 📊 GitHub Stats
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandormangal&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mandormangal&show_icons=true&theme=tokyonight" height="160" alt="stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandormangal&theme=tokyonight" height="160" alt="streak"/>
-</p> -->
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandormangal&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
 </p>
