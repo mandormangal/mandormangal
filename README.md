@@ -75,7 +75,7 @@
 ### 🚀 Featured Projects
 
 
-#### 🛒 Shopping24 (E-Commerce Platform)
+#### 🛒 Shoppify247 (E-Commerce Platform)
 [![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/mandormangal/Ecom)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
 
@@ -91,9 +91,9 @@ A complete **e-commerce web application** where users can browse products, add t
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
 
 
-#### 🎓StudyAdda (Ed-Tech Platform)
+#### 🎓MealDash-(Food web)
 
-[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/mandormangal/)
+[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/mandormangal/Mealdash)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/)
 
 A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
