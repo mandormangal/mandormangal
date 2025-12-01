@@ -111,7 +111,7 @@ A modern **Food web** built with the **MERN stack** that provides a seamless lea
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mandormangal&show_icons=true&theme=tokyonight" height="160" alt="stats"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mandormangal&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandormangal&theme=tokyonight" height="160" alt="streak"/>
 </p>
 <p align="center">
