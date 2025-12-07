@@ -94,7 +94,6 @@ A complete **e-commerce web application** where users can browse products, add t
 #### 🎓MealDash-(Food web)
 
 [![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)(https://github.com/mandormangal/Mealdash)
-[![Repo](https://github.com/mandormangal/Mealdash)
 <!-- [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/) -->
 
 A modern **Food web** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
