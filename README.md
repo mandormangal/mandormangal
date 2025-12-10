@@ -86,7 +86,7 @@ A complete **e-commerce web application** where users can browse products, add t
   - **User authentication & profile management**
   - **Shopping cart & checkout** with secure payment integration
   - **Admin dashboard** for product & order management
-  - Responsive design for desktop & mobile.
+  - Responsive design for desktop & mobile
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
 
