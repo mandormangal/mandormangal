@@ -14,7 +14,7 @@
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
 🚀 Experienced in **frontend architecture, product design, and UI engineering**, with an eye for both **performance and aesthetics**.  
-⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**.
+⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**..
 
 
 ### 🌐 Connect With Me
